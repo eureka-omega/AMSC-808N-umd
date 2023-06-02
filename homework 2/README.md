@@ -1,1 +1,1 @@
-Cluster via creative mapping
+Cluster data via creative mapping
